@@ -1,0 +1,3 @@
+include ':Regexsimplifier'
+include ':app'
+rootProject.name = "RegexSimplifier"
